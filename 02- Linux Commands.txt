@@ -1,0 +1,92 @@
+OPERATING SYSTEM HISTORY
+https://eylenburg.github.io/os_familytree.htm
+
+
+Initially its UNICS
+Most of the other OS comes related and after to this
+Like iOS, appletvOs, macOS, Android
+They are in red color and they have share similar commands 
+
+But Windows is separate one (BLUE)
+not related to UNICS OS back in 70s
+
+
+UNIX
+-----
+mid 1960s
+grandfather of many modern operating systems that we frequently used today
+Multi user operating systems and hierarchical file systems
+
+
+
+OS can be grouped into 2 families
+	Microsoft NT
+windows, Xbox OS and Windows Phone/Mobile
+
+	UNIX
+max OS X, Linux, Android, Chrome OS, PS4 OS
+
+
+3 kinds of OS based on type of source
+	open source
+	closed source
+	mixed/ shared source
+
+
+
+FREE SOURCE MOVEMENT - RICHARD STALLMAN
+free is not based on the concept of money
+but based on the freedom
+	"users should have the freedom to run, copy, distribute, study, change and improve the s/w"
+
+
+
+GNU
+----
+Free software alternative to Unix
+1984
+everything that comes under Unix system but Free
+
+
+
+The Linux Kernel
+-----------------
+Linus Torvalds
+working on creating his own kernel known as Linux
+At that time GNU pieces were complete 
+but lacked a kernel
+He combined his kernel with the existing GNU components to create a full OS 
+A kernel is the core of an operating system (OS), acting as the central interface between the hardware and software. 
+
+
+GNU/LINUX
+----------
+GNU/Linux is a free and open-source Unix-like operating system consisting of components developed by the GNU Project and the Linux kernel. It's not a single entity, but rather a collection of software, including the Linux kernel, and other software developed by the GNU Project, such as compilers, libraries, and utilities. The Linux kernel is the core component that manages hardware, while the GNU components provide the tools and libraries needed for users to interact with the system. 
+
+SHELL
+----
+IN WONDOWS power shell , bash
+its a computer interface to an os
+shell exposes os services to human user to other programs
+it takes our command and give them to the os to perform
+
+its the outer layer of the os - so the name shell
+
+
+TERMINAL
+-------
+Program that  runs the shell
+they were physical devices initially
+now its a software
+
+ ubunu, linus ---> BASH
+mac ------> ZSH
+Fish
+
+
+
+
+BASH  
+Bourne Again SHell
+in most Linux based systems, default shell is bash
+same or similar in Unix or Unix based systems

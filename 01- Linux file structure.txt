@@ -1,0 +1,148 @@
+🔺whoami- To identify the user
+ ubundu
+
+EVERYTHING IN THE LINUX IS A FILE
+
+Eg:      Network Settings - IP Addresses
+	 Devices - Printers, CD
+	 Commands we are using
+
+🔺cd - change directory 
+cd .. ---> for going to the previous directory
+cd .. as many times
+we will reach /
+that is the root directory
+
+
+🔺ls - list directory
+In the root we have list of commands. It can be viewed if we type ls in the root directory
+
+🔺cat is the command for concatenate
+
+🔺cp means copy
+cp file-name destination
+Eg: cp ls networkcheck
+it will cause some error
+because we need permission
+so we have to please Linux
+pleasing is done by the command sudo
+it stands for super user do
+
+Here we can use the networkcheck command instead of ls
+thats the use of ls actually
+ie. If we simply type networkchect it will list the files and directory in that folder
+
+
+
+🔺rm - remove directory or file
+rm ls
+wont work
+sudo rm ls
+it will work
+then if we type ls it wont work
+so copy it back from the networkcheck
+ 
+
+
+🔺there is one more file sbin in the root
+sbin - super bin
+it contains a list of files which need higher permission
+like adduser
+sudo adduser gourii
+type the password and all
+
+
+🔺pwd - Present working directory
+
+
+
+in the / dir, we have one usr directory
+if we go to that and ls
+then we can see one more bin and sbin
+if cd bin , ls
+same as previous bin and sbin
+
+they are the same
+the both are real
+both are same
+to check that 
+
+
+🔺which can be used for checking which is the location of the file we are going to use
+which ls
+	usr/bin/ls
+
+🔺in /usr we have one more imp dir which is local
+here we can place the commands we are aerating
+
+
+🔺in / we have boot
+this stores boot files
+it includes log files, temporary file, apllication files, shared library files
+ 
+
+🔺in /
+cd home
+it will give the list of users
+but not root user
+every linux system has a root user
+
+
+he is given separated in /
+as root
+sudo ls root
+gives the directory in the root
+
+
+🔺there is dev in /
+devices
+eg: vda1, vda these are virtual disk and they are also files
+
+
+sudo cat vda
+it will copy the things in the hard drive
+
+🔺settings in Linux server or Linux computer is also files
+things like network settings are stored in the files
+Its stored in etc file
+etcetera
+configuration files are stored here
+
+
+cd etc
+cd network
+ls
+it will give a list including interfaces
+
+sudo  cat interfaces
+not working
+
+
+🔺mnt/media
+both have similar functionalities
+they mount drives
+if we plugin usb drive
+it will automatically mounted to media as a file
+
+mnt use manually mounting
+
+
+
+linus file system is known as FILE SYSTEM HEIRARCHY(FHS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

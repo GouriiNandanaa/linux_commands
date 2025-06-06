@@ -1,0 +1,10 @@
+ROOT DIRECTORY
+--------------
+
+/ is the top level directory
+its the root directory
+
+~ means the home directory
+inside home we have all users
+
+learn more about relative and absolute cd

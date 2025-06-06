@@ -1,0 +1,5 @@
+🔺
+to get the names of users
+either go to the home folder in the root
+or use the command
+	getent passwd
